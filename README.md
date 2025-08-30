@@ -35,7 +35,7 @@
 
 
 # 📚 Hong Kong CRE "Use of Chinese" Exam Practice App
-## A dedicated learning tool designed for preparing for the Hong Kong CRE Chinese Proficiency Test, helping you study efficiently for the exam.
+## A dedicated learning tool designed for preparing for the Hong Kong CRE "Use of Chinese", helping you study efficiently for the exam.
 
 # ✅ Features
 Question Bank: Questions are compiled based on official sample questions.

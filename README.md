@@ -22,7 +22,7 @@
 
 # 📱 下載連結 
 
-👉 App Store 下載 
+👉 [App Store 下載](https://apps.apple.com/us/app/cre%E4%B8%AD%E6%96%87%E9%81%8B%E7%94%A8%E9%A1%8C%E5%BA%AB/id6751753602)
 
 👉 Google Play 下載
 
@@ -58,7 +58,7 @@ This app does not collect any user data.
 We respect your privacy — the only thing we don't track is your learning progress.
 
 # 📱 Download Links
-👉 App Store Download
+👉 [App Store Download](https://apps.apple.com/us/app/cre%E4%B8%AD%E6%96%87%E9%81%8B%E7%94%A8%E9%A1%8C%E5%BA%AB/id6751753602)
 
 👉 Google Play Download
 
